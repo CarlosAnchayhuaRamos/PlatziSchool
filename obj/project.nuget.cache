@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TxZFv35nba9IAdGlPWeLRCXtR5tpikSX49Hb3U7BLt/r3AVTs/pRFJaSRkCTa8/F3Wopd/R/fD3B3NN8wESewQ==",
+  "dgSpecHash": "j0cxiQEf+3WF9Y0S3uqhluammu6b7LBbj7ms8vraSYGhNLaiTX+nddr+YG1Vnqpul9z0zIj5SuiUIU9+VrP9kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\CloudComputing\\ASP.NETCore2\\HolaMundoMVC\\HolaMundoMVC.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\HolaMundoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\HolaMundoMVC.csproj",
+  "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\HolaMundoMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,83 +16298,83 @@
   "RootNamespace": "HolaMundoMVC",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
-      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Asignatura\\Index.cshtml",
-      "TargetPath": "Views\\Asignatura\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\AsignaturaSimple.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\AsignaturaSimple.cshtml",
       "TargetPath": "Views\\Shared\\AsignaturaSimple.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Alumno\\Index.cshtml",
-      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\Simple.cshtml",
-      "TargetPath": "Views\\Shared\\Simple.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Asignatura\\MultiAsignatura.cshtml",
-      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\ListaObjetoEscuelaSimple.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\ListaObjetoEscuelaSimple.cshtml",
       "TargetPath": "Views\\Shared\\ListaObjetoEscuelaSimple.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Escuela\\Index.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Escuela\\Index.cshtml",
       "TargetPath": "Views\\Escuela\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\HolaMundoMVC\\Views\\Alumno\\MultiAlumno.cshtml",
-      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Shared\\Simple.cshtml",
+      "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\Asignatura\\Index.cshtml",
+      "TargetPath": "Views\\Asignatura\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

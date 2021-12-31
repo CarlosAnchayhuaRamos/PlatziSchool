@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HolaMundoMVC
 build_property.RootNamespace = HolaMundoMVC
-build_property.ProjectDir = c:\Users\Usuario\Documents\CloudComputing\CursoDeWebAppsYLogicAppsEnAzure\HolaMundoMVC\
+build_property.ProjectDir = C:\Users\Usuario\Documents\CloudComputing\CursoDeWebAppsYLogicAppsEnAzure\PlatziSchool\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Usuario\Documents\CloudComputing\CursoDeWebAppsYLogicAppsEnAzure\HolaMundoMVC
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\Documents\CloudComputing\CursoDeWebAppsYLogicAppsEnAzure\PlatziSchool
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Alumno/Index.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Alumno/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Alumno/MultiAlumno.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Alumno/MultiAlumno.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vXE11bHRpQWx1bW5vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Asignatura/Index.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Asignatura/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Asignatura/MultiAsignatura.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Asignatura/MultiAsignatura.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxNdWx0aUFzaWduYXR1cmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Escuela/Index.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Escuela/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjdWVsYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Home/Index.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/AsignaturaSimple.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/AsignaturaSimple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFzaWduYXR1cmFTaW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/Error.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/ListaObjetoEscuelaSimple.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/ListaObjetoEscuelaSimple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExpc3RhT2JqZXRvRXNjdWVsYVNpbXBsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/ObjetoEscuelaSimple.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/ObjetoEscuelaSimple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE9iamV0b0VzY3VlbGFTaW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/Simple.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/Simple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpbXBsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/_ViewImports.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/_ViewStart.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/HolaMundoMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Usuario/Documents/CloudComputing/CursoDeWebAppsYLogicAppsEnAzure/PlatziSchool/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fo1c62idoh

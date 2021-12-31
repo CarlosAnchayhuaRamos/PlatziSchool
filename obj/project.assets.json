@@ -1798,11 +1798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\CloudComputing\\ASP.NETCore2\\HolaMundoMVC\\HolaMundoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\HolaMundoMVC.csproj",
       "projectName": "HolaMundoMVC",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\CloudComputing\\ASP.NETCore2\\HolaMundoMVC\\HolaMundoMVC.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\HolaMundoMVC.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\CloudComputing\\ASP.NETCore2\\HolaMundoMVC\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\CloudComputing\\CursoDeWebAppsYLogicAppsEnAzure\\PlatziSchool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

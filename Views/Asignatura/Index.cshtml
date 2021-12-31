@@ -1,0 +1,23 @@
+﻿@model Asignatura;
+
+@{
+    ViewData["Title"] = "Informaciòn Asignatura";
+    Layout = "Simple";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+<strong>Vista Normal</strong>
+<p>
+    Nombre: @Model.Nombre <br/>
+    Id: @Model.UniqueId
+</p>
+
+
+<strong>Vista Parcial</strong>
+<partial name="AsignaturaSimple"></partial>
+
+<li>
+    <lu>Fecha: @ViewBag.Fecha</lu>
+</li>

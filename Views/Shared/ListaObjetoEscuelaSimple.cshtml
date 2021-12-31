@@ -1,0 +1,19 @@
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col">ID</th>
+    </tr>
+  </thead>
+  <tbody>
+        @foreach (var obj in Model)
+    {
+        <tr>
+            <td>@Model.Nombre</td>
+            <td>@Model.UniqueId</td>
+        </tr>
+    }
+  </tbody>
+</table>
